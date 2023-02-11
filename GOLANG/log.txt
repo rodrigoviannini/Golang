@@ -1,0 +1,12 @@
+220/10/2023 21:28:16 - http://pep.ufrj.br/index.php/br/ - online: true
+20/10/2023 21:28:17 - http://www.alura.com.br/ - online: true
+20/10/2023 21:28:18 - http://www.caelum.com.br/ - online: true
+20/10/2023 21:28:23 - http://pep.ufrj.br/index.php/br/ - online: true
+20/10/2023 21:28:23 - http://www.alura.com.br/ - online: true
+20/10/2023 21:28:24 - http://www.caelum.com.br/ - online: true
+20/10/2023 21:29:17 - http://pep.ufrj.br/index.php/br/ - online: true
+20/10/2023 21:29:17 - http://www.alura.com.br/ - online: true
+20/10/2023 21:29:18 - http://www.caelum.com.br/ - online: true
+20/10/2023 21:29:23 - http://pep.ufrj.br/index.php/br/ - online: true
+20/10/2023 21:29:24 - http://www.alura.com.br/ - online: true
+20/10/2023 21:29:24 - http://www.caelum.com.br/ - online: true
